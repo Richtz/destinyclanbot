@@ -1,2 +1,2 @@
 # destinyclanbot
-Destiny caln management bot for Discord
+Destiny clan management bot for Discord written in Pyhton
